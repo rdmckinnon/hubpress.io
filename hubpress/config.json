@@ -1,8 +1,7 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "rdmckinnon",
+    "repositoryName": "hubpress.io": "master"
   },
   "theme": {
     "name": "Casper"
